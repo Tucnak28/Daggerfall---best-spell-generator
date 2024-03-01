@@ -1,0 +1,15 @@
+C:\Users\Michal Farník\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\bin\Release\Daggerfall Perfect Combination.exe.config
+C:\Users\Michal Farník\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\bin\Release\Daggerfall Perfect Combination.exe
+C:\Users\Michal Farník\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\bin\Release\Daggerfall Perfect Combination.pdb
+C:\Users\Michal Farník\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\obj\Release\Daggerfall Perfect Combination.csproj.CoreCompileInputs.cache
+C:\Users\Michal Farník\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\obj\Release\Daggerfall Perfect Combination.exe
+C:\Users\Michal Farník\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\obj\Release\Daggerfall Perfect Combination.pdb
+C:\Users\Michal Farník\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\obj\Release\Daggerfall Perfect Combination.csproj.AssemblyReference.cache
+C:\Users\Tucna\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\bin\Release\Daggerfall Perfect Combination.exe.config
+C:\Users\Tucna\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\bin\Release\Daggerfall Perfect Combination.exe
+C:\Users\Tucna\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\bin\Release\Daggerfall Perfect Combination.pdb
+C:\Users\Tucna\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\obj\Release\Daggerfall Perfect Combination.csproj.AssemblyReference.cache
+C:\Users\Tucna\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\obj\Release\Daggerfall Perfect Combination.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tucna\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\obj\Release\Daggerfall Perfect Combination.csproj.CoreCompileInputs.cache
+C:\Users\Tucna\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\obj\Release\Daggerfall Perfect Combination.exe
+C:\Users\Tucna\source\repos\Daggerfall Perfect Combination\Daggerfall Perfect Combination\obj\Release\Daggerfall Perfect Combination.pdb
